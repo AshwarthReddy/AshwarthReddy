@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Java, kotlin, GoLang, TypeScript
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... banr20@gmail.com @AswarthPriya
+- 📫 How to reach me ... banr20@gmail.com  <b>Twitter</b>@AswarthPriya
 
 
 [![Aswarthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwarthReddy)](https://github.com/AshwarthReddy/github-readme-stats)
